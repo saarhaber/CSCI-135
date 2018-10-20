@@ -1,7 +1,8 @@
 #include <iostream>  //The built-in library for input/output
-using namespace std; //The names of standard definitions
 #include <math.h>
 #include <iomanip>
+
+using namespace std; //The names of standard definitions
 
 
 int main (){
